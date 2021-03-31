@@ -10,4 +10,4 @@ def fibonacci_ld(n):
 if __name__ == '__main__':
     #input = sys.stdin.read()
     n = int(input())
-    print(get_fibonacci_ld(n))
+    print(fibonacci_ld(n))
